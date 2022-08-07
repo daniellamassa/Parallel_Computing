@@ -15,7 +15,7 @@
 # <center>Part 2.1: Parallel Matrix Operation: Addition </center>
 * SIZE: 100x
 
-| threads     | static (1)  | static (10) | static (100)||dynamic (1)  |dynamic (10) |dynamic (100)|
+|      | static (1)  | static (10) | static (100)||dynamic (1)  |dynamic (10) |dynamic (100)|
 | ----------- | ----------- | ----------- | ----------- || ----------- | ----------- | ----------- |
 | 1           | 0.001158 s  | 0.000220 s  | 0.000124 s  || 0.001336 s  | 0.000220 s  | 0.000124 s  |
 | 2           | 0.000923 s  | 0.000056 s  | 0.000045 s  || 0.000903 s  | 0.000041 s  | 0.000045 s  |
